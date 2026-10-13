@@ -14,8 +14,8 @@ I love breaking down complex, intimidating technical concepts into clear, simple
 ---
 
 ### Connect With Me:
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com)
-* **Email:** [your.email@uci.edu](mailto:your.email@uci.edu)
+* **LinkedIn:** [linkedin.com/in/dhanush-venna](https:www.linkedin.com/in/dhanush-venna)
+* **Email:** [dhanushvenna2@gmail.com](mailto:dhanushvenna2@gmai.com)
 
 ---
 
