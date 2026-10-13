@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**vdvenna/vdvenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dhanush**, a Computer Science student at **UC Irvine** (Zot Zot Zot! 🐜). 
 
-Here are some ideas to get you started:
+I love breaking down complex, intimidating technical concepts into clear, simple ideas. My goal is to combine engineering depth with communication to bridge the gap between business needs and technical solutions—aiming for a career in **Solutions Engineering** or **Technology Consulting**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Up To:
+* 🛠️ **Deep-Diving Backend & Systems:** Learning backend architecture, distributed systems, and low-level system design.
+* ☁️ **Cloud Architecture:** Actively preparing for my **AWS Certification**.
+* 💡 **Explaining Tech:** Creating clear documentation and helping peers understand tricky algorithms and architecture patterns.
+
+---
+
+### Connect With Me:
+* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com)
+* **Email:** [your.email@uci.edu](mailto:your.email@uci.edu)
+
+---
+
+### Fun Facts & Hobbies:
+* 🏸 Competitive badminton player.
+* 🖥️ Custom PC building enthusiast (cable management is my therapy).
+* 🎮 Gaming when the code finally compiles.
